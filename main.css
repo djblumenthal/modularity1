@@ -1,0 +1,50 @@
+/* data tables*/
+.dt {
+	width: 100%;
+}
+
+.dr {
+	border-width: thin;
+	border-bottom-style: solid;
+	border-color: silver;
+}
+.dh, .dd {
+	padding: 10px;
+}
+
+.sr {
+	border-width: thin;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-color: silver;
+	text-align: center;
+	
+}
+
+/* stats table*/
+.sd{
+	padding: 20px;
+}
+.sn {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.sl {
+	font-size: small;
+	color:silver;
+}
+
+/* bar chart*/
+.bt {
+	width: 100%;
+}
+.bth {
+	text-align: right;
+	padding: 2px;
+}
+
+.bdd{
+	text-align: left;
+	padding: 2px;
+	background-color:blue;
+}
